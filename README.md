@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dennis Kamau
 - 👀 I’m interested in Backend Development and Information Security
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Ruby and RubyonRails  
 - 💞️ I’m looking to collaborate on React and NodeJS
 - 📫 How to reach me +254703671701 or dennisnjoroge4@gmail.com
 
