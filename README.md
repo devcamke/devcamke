@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dennis Kamau
 - 👀 I’m interested in becoming a Full Stack Engineer
-- 🌱 I’m currently learning Ruby and Rails. 
+- 🌱 I’m currently learning web development and offensive security. 
 - 💞️ I’m looking to collaborate on RubyOnRails.
 - 📫 How to reach me dennisnjoroge4@gmail.com
 
