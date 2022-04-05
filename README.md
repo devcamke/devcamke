@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 - 👋 Hi, I’m Dennis Kamau
 - 👀 I’m interested in becoming a Full Stack Engineer
 - 🌱 I’m currently learning web development and offensive security. 
