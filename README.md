@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 - 👋 Hi, I’m Dennis Kamau
-- 👀 I’m interested in becoming a Full Stack Engineer
-- 🌱 I’m currently learning web development and offensive security. 
-- 💞️ I’m looking to collaborate on Ruby | Rails | Node | React
+- 👀 I’m interested in Web Development and Cyber Security.
+- 🌱 I’m currently learning Frontend and Backend Engineering using Ruby on Rails, React and Node. 
+- 💞️ I’m looking to collaborate on Ruby on Rails | React
 - 📫 How to reach me dennisnjoroge4@gmail.com
 
 <!---
