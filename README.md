@@ -1,23 +1,30 @@
 - 👋 Hi, I’m Dennis Kamau!
 
-- 🚀 My primary focus is **Cyber Security Research**, where I delve into areas like:
-    - **Malware Analysis**: Understanding and dissecting malicious software.
-    - **Vulnerability and Penetration Testing**: Identifying and exploiting weaknesses to improve security.
-    - **Technology Risk Assurance**: Assessing and mitigating technology-related risks.
+- 🎯 My ambition is to become an expert at the intersection of **Security Research, Data Science, and Software Engineering**. I am passionate about building secure and intelligent systems.
 
-- 📊 I also have a strong interest in **Data Analysis**, applying analytical skills to uncover insights, often within the security domain.
+- 🚀 In **Cyber Security Research**, I focus on:
+    - **Malware Analysis & Reverse Engineering**: Understanding, dissecting, and neutralizing malicious software.
+    - **Vulnerability and Penetration Testing**: Proactively identifying and mitigating security weaknesses.
+    - **Technology Risk Assurance**: Assessing and fortifying technology against potential risks.
 
-- 💎 As a **Rubyist**, I enjoy building and contributing to projects using Ruby and its ecosystem.
+- 📊 As a budding **Data Scientist**, I apply analytical and machine learning techniques to extract insights and build predictive models, particularly within the cybersecurity domain (e.g., threat detection, anomaly analysis).
 
-- 🌱 I’m continuously learning and currently focused on advanced threat intelligence techniques, secure coding practices in Ruby and machine learning for anomaly detection. I'm also continuing to develop my full-stack skills with Ruby on Rails, React, and Node.
+- 💻 As a **Software Engineer** and **Rubyist**, I enjoy crafting robust applications and tools, with a focus on secure coding practices. I have experience with Ruby and its ecosystem, and I'm also developing my full-stack skills.
 
-- 💞️ I’m eager to collaborate on:
-    - Cybersecurity research initiatives
-    - Malware analysis projects
-    - Developing security tools (Ruby projects are a plus!)
-    - Vulnerability assessments
-    - Data analysis projects with a security focus
+- 🌱 I’m continuously learning and currently focused on:
+    - Advanced threat intelligence techniques
+    - Secure coding practices (especially in Ruby)
+    - Machine learning for anomaly detection and security analytics
+    - Deepening my full-stack capabilities with Ruby on Rails, React, and Node.
 
-- 📫 You can reach me at: dennisnjoroge4@gmail.com
-- Portfolio: lastbyte.net
-- LinkedIn: https://www.linkedin.com/in/dennis-njoroge
+- 💞️ I’m eager to collaborate on projects involving:
+    - Cybersecurity research and tool development
+    - Malware analysis and reverse engineering challenges
+    - Data-driven security solutions and threat modeling
+    - Secure software development (Ruby projects are a definite plus!)
+    - Vulnerability assessments and penetration testing engagements
+
+- 📫 How to reach me:
+    - 📧 Email: dennisnjoroge4@gmail.com
+    - 🌐 Portfolio: (https://lastbyte.net) 
+    - 🔗 LinkedIn: (https://www.linkedin.com/in/dennis-njoroge)
